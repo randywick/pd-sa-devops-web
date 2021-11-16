@@ -10,8 +10,8 @@
     "start": "webpack serve --hot --mode development"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Randall Wick <rwick@prescriptivedata.io>",
+  "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
